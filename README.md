@@ -46,7 +46,7 @@ python bin/KISTI_GUnet.py rootpath -data [data folder] -data_name [data_name] -f
 
 - example of multi subjects and attribute graph
 
-<img src = "https://github.com/sgkim2/KISTI/blob/main/Graph_Unet2.png" width="70%" height="70%">
+<img src = "https://github.com/sgkim2/KISTI/blob/main/Graph_Unet2.png" width="70%" height="40%">
 
 ## example
 ---
