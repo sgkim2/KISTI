@@ -38,7 +38,7 @@ python bin/KISTI_GUnet.py rootpath -data [data folder] -data_name [data_name] -f
 - Step 4 : transform graph matrix to Graph Unet style Graph [5]
 * step 1~3 vary depending on the user's data.
 
-## example of Graph Unet style Graph
+## example of Graph Unet style Graph (Step 4)
 
 - example of one subject
 
