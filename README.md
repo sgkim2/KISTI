@@ -61,7 +61,7 @@ bash run_GUNet_KISTI.sh obesity 1 0 test1
 * import numpy as np
 * acc = np.load('~/output/graph_train_acc_1_fold.npy')
 * print(acc)
-* # [0.1 0.15 0.2 ... 0.6 0.7]
+* [0.1 0.15 0.2 ... 0.6 0.7]
 
 # reference 
 - [1] Effective preprocessing procedures virtually eliminate distance-dependent motion artifacts in resting state FMRI
