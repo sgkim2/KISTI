@@ -39,4 +39,4 @@ bash run_GUNet_KISTI.sh obesity 1 0 test1
 
 ---
 # output
-- classification accuracy [.txt]
+- classification accuracy [~/output/graph_train_acc_1_fold.npy]
