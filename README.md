@@ -31,6 +31,12 @@ python bin/KISTI_GUnet.py rootpath -data [data folder] -data_name [data_name] -f
 - dropout [True or False]
 - mode [gpu or cpu] 
 
+## example
+---
+```
+bash run_GUNet_KISTI.sh obesity 1 0 test1
+```
+
 ---
 # output
 - classification accuracy [.txt]
