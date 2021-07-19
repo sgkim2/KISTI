@@ -36,7 +36,7 @@ python bin/KISTI_GUnet.py rootpath -data [data folder] -data_name [data_name] -f
 - Step 2 : extract ROI signal [2,3]
 - Step 3 : make graph matrix (pearson correlation) [4]
 - Step 4 : transform graph matrix to Graph Unet style Graph [5]
-- * step 1~3 vary depending on the user's data.
+* step 1~3 vary depending on the user's data.
 
 ## example of Graph Unet style Graph
 
